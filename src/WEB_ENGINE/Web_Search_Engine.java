@@ -33,9 +33,6 @@ public class Web_Search_Engine {
 		System.out.println("TEAM MEMBERS :");
 		System.out.println("1. Jaineel Fenal Dharia");
 		System.out.println("2. Krunal Parikh");
-		System.out.println("3. Lypsa Nirav Shah");
-		System.out.println("4. Dhruv Jasani");
-		System.out.println("5. Tanvi Madaan");
 		System.out.println("********************************************************************");
 		System.out.println("");
 		System.out.println("");
